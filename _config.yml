@@ -1,0 +1,23 @@
+name: "Mathangi Subramanian"
+description: "Writer | Activist | Educator"
+
+url: "http://mathangi.co"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+
+sftp_host: 'mathangi.co'
+sftp_dir: 'mathangi.co/root'
+sftp_passive: false
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-51712248-1
+google_verify: wSVfwv3ognmlqtolUvKpMXNiJ7r0sYoQSNARIabJbbs
+
+# optional
+sftp_port: 22                  # default 21
+sftp_username: 'root'     # default read from stdin
+sftp_password: 'ngmbc9uw' # default read from stdin
